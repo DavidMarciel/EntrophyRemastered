@@ -1,0 +1,39 @@
+<resources>
+<string name="app_name">EntRoPhY<!--My Application 7--></string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="senal">Signal choosens</string>
+<string name="senalar">Signal near letters</string>
+<string name="velocidad">Speed:\t  </string>
+
+<string name="alphabetTypesName">Type of Alphabets </string>
+<string name="DenyAccess">Deny Access. (%1$.2f s)</string>
+<string name="GrantAccess">Grant Access. (%1$.2f s)</string>
+<string name="rightPassword">Correct Password (%1$.2f s)</string>
+<string name="wrongPassword">Incorrect Password (%1$.2f s)</string>
+
+<string name="Access">Access</string>
+<string name="SetPassword">Set Password</string>
+<string name="Result">Result</string>
+<string name="zero">0</string>
+
+<string name="newLetter">New Letter</string>
+<string name="pleaseSetPassword">Please, first set a password</string>
+<string name="accessGranted">Access Granted</string>
+<string name="accessDenied">Access Denied</string>
+<string name="show_selected">Show selected</string>
+<string name="calling_to_server">calling to server</string>
+<string name="time">time</string>
+<string name="timeRequired">Time required (%1$.2f s)</string>
+
+
+    <string-array name="alphabetTypes">
+    <item>Dynamic</item>
+    <item>Static</item>
+    <item>World Alphabets</item>
+    <item>Mixed</item>
+</string-array>
+
+
+</resources>
