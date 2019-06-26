@@ -4,6 +4,6 @@ Selected as one of 18 finalist in the "Prometeo Program" of the University of Va
 In "Documentation folder" You can find a user guide, a presentation and a example of the app in Documentation folder
 
 
-https://www.youtube.com/watch?v=2nCBheeMdSU&feature=youtu.be&t=970
+https://youtu.be/7hCwLmrSt6M
 
 http://www.elnortedecastilla.es/valladolid/201602/04/alumnos-desarrollan-patentes-20160204120401.html
